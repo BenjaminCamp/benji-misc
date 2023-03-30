@@ -1,0 +1,32 @@
+[
+  {
+    "Managed": false,
+    "Impactable": false,
+    "Dividable": false,
+    "Divided": "None",
+    "IsAux": false,
+    "IsSub": false,
+    "EnterpriseId": 20440,
+    "Account": 1,
+    "AccountClass": 1,
+    "AccountLabel": "Comptes de capitaux",
+    "AccountName": "1",
+    "AccountDescription": "Comptes de capitaux",
+    "AccountId": 1
+  },
+  {
+    "Managed": false,
+    "Impactable": false,
+    "Dividable": false,
+    "Divided": "None",
+    "IsAux": false,
+    "IsSub": false,
+    "EnterpriseId": 20441,
+    "Account": 2,
+    "AccountClass": 1,
+    "AccountLabel": "Comptes de capitaux",
+    "AccountName": "1",
+    "AccountDescription": "Comptes de capitaux",
+    "AccountId": 1
+  }
+]

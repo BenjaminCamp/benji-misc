@@ -1,0 +1,1273 @@
+Compte	Description	Impactable ?	Subdivisable ?	Compte mappé vers	
+1	Compte de capitaux	false	false	undefined	
+10	Capital et réserves	false	false	1088	
+101	Capital	false	false	10131	
+1011	Capital souscrit - non appelé	true	true	1011	
+1012	Capital souscrit - appelé, non versé	true	true	1012	
+1013	Capital souscrit - appelé, versé	false	false	10131	
+10131	Capital non amorti	true	true	10131	
+10132	Capital amorti	true	true	10132	
+1014	Capital affecté à l'EIRL	true	true	1014	
+1018	Capital souscrit soumis à des réglementations particulières	true	true	1018	
+102	Fonds fiduciaire	true	true	102	
+104	Primes liées au capital social	false	false	10131	
+1041	Primes d'émission	true	true	1041	
+1042	primes de fusion	true	true	1042	
+1043	Primes d'apport	true	true	1043	
+1044	Primes de conversion d'obligations en actions	true	true	1044	
+1045	Bons de souscription d'actions	true	true	1045	
+105	Écarts de réévaluation	false	false	undefined	
+1051	Réserve spéciale de réévaluation	true	true	1051	
+1052	Écart de réévaluation libre	true	true	1052	
+1053	Réserve de réévaluation	true	true	1053	
+1055	Écarts de réévaluation (autres opérations légales)	true	true	1055	
+1057	Autres écarts de réévaluation nationaux	true	true	1057	
+1058	Autres écarts de réévaluation à l'étranger	true	true	1058	
+106	Réserves	false	false	10688	
+1061	Réserve légale	false	false	10611	
+10611	Réserve légale proprement dite	true	true	10611	
+10612	Plus-values nettes à long terme	true	true	10612	
+1062	Réserves indisponibles	true	true	1062	
+1063	Réserves statutaires ou contractuelles	true	true	1063	
+1064	Réserves réglementées	false	false	undefined	
+10641	Plus-values nettes à long terme	true	true	10641	
+10643	Réserves consécutives à l'octroi de subventions d'investissement	true	true	10643	
+10648	Autres réserves réglementées	true	true	10648	
+1068	Autres réserves	false	false	10688	
+10681	Réserve de propre assureur	true	true	10681	
+10688	Réserve diverses	true	true	10688	
+107	Écart d'équivalence	true	true	107	
+108	Compte de l'exploitant	true	true	108	
+1088	Capitaux propres (import Inqom)	true	true	1088	
+109	Actionnaires - capital souscrit non appelé	true	true	109	
+11	Report à nouveau	true	false	11	
+110	Report à nouveau créditeur	false	false	11	
+119	Report à nouveau débiteur	false	false	11	
+12	Résultat de l'exercice	true	false	12	
+120	Bénéfice	false	false	12	
+1209	Acomptes sur dividendes	true	false	1209	
+129	Perte	false	false	12	
+13	Subventions d'investissement	false	false	1318	
+131	Subventions d'équipement	false	false	1318	
+1311	État	true	true	1311	
+1312	Régions	true	true	1312	
+1313	Départements	true	true	1313	
+1314	Communes	true	true	1314	
+1315	Collectivités publiques	true	true	1315	
+1316	Entreprises publiques	true	true	1316	
+1317	Entreprises et organismes privés	true	true	1317	
+1318	Autres	true	true	1318	
+134	Subventions transports routiers	true	true	undefined	
+138	Autres subventions d'investissement	false	false	undefined	
+1381	État	true	true	1381	
+1382	Régions	true	true	1382	
+1383	Départements	true	true	1383	
+1384	Communes	true	true	1384	
+1385	Collectivités publiques	true	true	1385	
+1386	Entreprises publiques	true	true	1386	
+1387	Entreprises et organismes privés	true	true	1387	
+1388	Autres	true	true	1388	
+139	Subventions d'investissement inscrites au compte de résultat	false	false	13918	
+1391	Subventions d'équipement	false	false	13918	
+13911	État	true	true	13911	
+13912	Régions	true	true	13912	
+13913	Départements	true	true	13913	
+13914	Communes	true	true	13914	
+13915	Collectivités publiques	true	true	13915	
+13916	Entreprises publiques	true	true	13916	
+13917	Entreprises et organismes privés	true	true	13917	
+13918	Autres	true	true	13918	
+1398	Autres subventions d'investissement	false	false	undefined	
+13981	État	true	true	13981	
+13982	Régions	true	true	13982	
+13983	Départements	true	true	13983	
+13984	Communes	true	true	13984	
+13985	Collectivités publiques	true	true	13985	
+13986	Entreprises publiques	true	true	13986	
+13987	Entreprises et organismes privés	true	true	13987	
+13988	Autres	true	true	13988	
+14	Provisions réglementées	false	false	148	
+142	Provisions réglementées relatives aux immobilisations	false	false	1424	
+1423	Provisions pour reconstitution des gisements miniers et pétroliers	true	true	1423	
+1424	Provisions pour investissement - Participation des salariés	true	true	1424	
+143	Provisions réglementées relatives aux stocks	false	false	undefined	
+1431	Hausse des prix	true	true	1431	
+1432	Fluctuation des cours	true	true	1432	
+144	Provisions réglementées relatives aux autres éléments de l'actif	true	true	144	
+1442	Provisions pour prêts d'installation	true	true	1442	
+145	Amortissement dérogatoires	true	true	145	
+146	Provision spéciale de réévaluation	true	true	146	
+147	Plues-values réinvesties	true	true	147	
+148	Autres provisions réglementées	true	true	148	
+15	Provisions	false	false	undefined	
+151	Provisions pour risques	false	false	1518	
+1511	Provisions pour litiges	true	true	1511	
+1512	Provisions pour garanties données aux clients	true	true	1512	
+1513	Provisions pour pertes sur marché à terme	true	true	1513	
+1514	Provisions pour amendes et pénalités	true	true	1514	
+1515	Provisions pour pertes de change	true	true	1515	
+1516	Provisions pour pertes sur contrat	true	true	1516	
+1518	Autres provisions pour risques	true	true	1518	
+153	Provisions pour pensions et obligations similaires	true	true	153	
+154	Provisions pour restructurations	true	true	154	
+155	Provisions pour impôts	true	true	155	
+156	Provisions pour renouvellement des immobilisations (entreprises concessionnaires)	true	true	156	
+157	Provisions pour charges à répartir sur plusieurs exercices	false	true	1572	
+1572	Provisions pour gros entretien ou grandes révisions	true	true	1572	
+158	Autres provisions pour charges	false	true	1518	
+1581	Provisions pour remises en état	true	true	1581	
+16	Emprunts et dettes assimilées	false	false	undefined	
+161	Emprunts obligataires convertibles	true	true	161	
+162	Obligations représentatives de passifs nets remis en fiducie	true	true	162	
+163	Autres emprunts obligataires	true	true	163	
+164	Emprunts auprès des établissements de crédit	true	true	164	
+165	Dépôts et cautionnements reçus	false	true	1651	
+1651	Dépôts	true	true	1651	
+1655	Cautionnements	true	true	1655	
+166	Participation des salariés aux résultats	false	false	undefined	
+1661	Comptes bloqués	true	true	1661	
+1662	Fonds de participation	true	true	1662	
+167	Emprunts et dettes assorties de conditions particulières	false	true	1671	
+1671	Émissions de titres participatifs	true	true	1671	
+1674	Avances contitionnées de l'État	true	true	1674	
+1675	Emprunts participatifs	true	true	1675	
+168	Autres emprunts et dettes assimilées	false	false	1681	
+1681	Autres emprunts	true	true	1681	
+1682	Dettes sur titres prêtés ou remis en garantiePlan(s) comptable(s) associé(s) : PCG BIC	true	true	1682	
+1685	Rentes viagières capitalisées	true	true	1685	
+1687	Autres dettes	true	true	1687	
+1688	Intérêtes courus	false	false	16888	
+16881	Sur emprunts obligataires convertibles	true	true	16881	
+16883	Sur autres emprunts obligataires	true	true	16883	
+16884	Sur emprunts auprès des établissements de crédit	true	true	16884	
+16885	Sur dépôts et cautionnements reçus	true	true	16885	
+16886	Sur participation des salariés aux résultats	true	true	16886	
+16887	Sur emprunts et dettes assorties de conditions particulières	true	true	16887	
+16888	Sur autres emprunts et dettes assimilées	true	true	16888	
+169	Primes de remboursement des obligations	true	true	169	
+17	Dettes rattachées à des participations	false	false	undefined	
+171	Dettes rattachées à des participations (groupe)	true	true	171	
+174	Dettes rattachées à des participations (hors groupe)	true	true	174	
+178	Dettes rattachées à des sociétés en participation	false	true	undefined	
+1787	Principal	true	true	1787	
+1788	Intérêts courus	true	true	1788	
+18	Comptes de liaison des établissements et sociétés en participation	false	false	181	
+181	Comptes de liaison des établissements	true	true	181	
+186	Biens et prestations de services échangés entre établissements (charges)	true	true	186	
+187	Biens et prestations de services échangés entre établissements (produits)	true	true	187	
+188	Comptes de liaison des sociétés en participation	true	true	188	
+19	Fonds dédiés	true	true	undefined	
+2	Comptes d'immobilisations	false	false	undefined	
+201	Frais d'établissement	false	false	20121	
+2011	Frais de constitution	true	true	2011	
+2012	Frais de premier établissement	false	false	20121	
+20121	Frais de prospection	true	true	20121	
+20122	Frais de publicité	true	true	20122	
+2013	Frais d'augmentation de capital	true	true	2013	
+203	Frais de recherche et de développement	true	true	203	
+204	Investissements de création artistique	true	true	undefined	
+205	Concessions et droits similaires, brevets, licences, marques, procédés, logiciels, droits et valeurs similaires	true	true	205	
+206	Droit au bail	true	true	206	
+207	Fonds commercial	true	true	207	
+208	Autres immobilisations incorporelles	true	true	208	
+208011	Frais de constitution	false	false	undefined	
+208012	Frais de premier établissement	false	false	undefined	
+2080121	Frais de prospection	false	false	undefined	
+2080122	Frais de publicité	false	false	undefined	
+21	Immobilisations corporelles	false	false	21888	
+211	Terrains	false	false	2111	
+2111	Terrains nus	true	true	2111	
+2112	Terrains aménagés	true	true	2112	
+2113	Sous-sols et sur-sols	true	true	2113	
+2114	Terrains de gisement	false	false	undefined	
+21141	Carrières	true	true	21141	
+2115	Terrains bâtis	false	false	21155	
+21151	Ensembles immobiliers industriels	true	true	21151	
+21155	Ensembles immobiliers administratifs et commerciaux	true	true	21155	
+21158	Autres ensembles immobiliers	false	false	undefined	
+211581	Affectés aux opérations professionnelles	true	true	211581	
+211588	Affectés aux opérations non professionnelles	true	true	211588	
+2116	Compte d'ordre sur immobilisations	true	true	2116	
+212	Agencements et aménagements de terrains	false	false	2112	
+2121	Terrains nus	true	true	2121	
+2122	Terrains aménagés	true	true	2122	
+2123	Sous-sols et sur-sols	true	true	2123	
+2124	Terrains de gisement	false	false	undefined	
+21241	Carrières	true	true	21241	
+2125	Terrains bâtis	false	false	undefined	
+21251	Ensembles immobiliers industriels	true	true	21251	
+21255	Ensembles immobiliers administratifs et commerciaux	true	true	21255	
+21258	Autres ensembles immobiliers	false	false	undefined	
+212581	Affectés aux opérations professionnelles	true	true	212581	
+212588	Affectés aux opérations non professionnelles	true	true	212588	
+2126	Compte d'ordre sur immobilisations	true	true	2126	
+213	Constructions	false	false	21311	
+2131	Bâtiments	false	false	21311	
+21311	Ensembles immobiliers industriels	true	true	21311	
+21315	Ensembles immobiliers administratifs et commerciaux	true	true	21315	
+21318	Autres ensembles immobiliers	false	false	213181	
+213181	Affectés aux opérations professionnelles	true	true	213181	
+213188	Affectés aux opérations non professionnelles	true	true	213188	
+2135	Installations générales - agencements - aménagements des constructions	false	false	21351	
+21351	Ensembles immobiliers industriels	true	true	21351	
+21355	Ensembles immobiliers administratifs et commerciaux	true	true	21355	
+21358	Autres ensembles immobiliers	false	false	undefined	
+213581	Affectés aux opérations professionnelles	true	true	213581	
+213588	Affectés aux opérations non professionnelles	true	true	213588	
+2138	Ouvrages d'infrastructure	false	false	21381	
+21381	Voies de terre	true	true	21381	
+21382	Voies de fer	true	true	21382	
+21383	Voies d'eau	true	true	21383	
+21384	Barrages	true	true	21384	
+21385	Pistes d'aérodromes	true	true	21385	
+214	Constructions sur le sol d'autrui	false	false	undefined	
+2141	Bâtiments	false	false	undefined	
+21411	Ensembles immobiliers industriels	true	true	21411	
+21415	Ensembles immobiliers administratifs et commerciaux	true	true	21415	
+21418	Autres ensembles immobiliers	false	false	undefined	
+214181	Affectés aux opérations professionnelles	true	true	214181	
+214188	Affectés aux opérations non professionnelles	true	true	214188	
+2145	Installations générales - agencements - aménagements des constructions	false	false	21451	
+21451	Ensembles immobiliers industriels	true	true	21451	
+21455	Ensembles immobiliers administratifs et commerciaux	true	true	21455	
+21458	Autres ensembles immobiliers	false	false	undefined	
+214581	Affectés aux opérations professionnelles	true	true	214581	
+214588	Affectés aux opérations non professionnelles	true	true	214588	
+2148	Ouvrages d'infrastructure	false	false	undefined	
+21481	Voies de terre	true	true	21481	
+21482	Voies de fer	true	true	21482	
+21483	Voies d'eau	true	true	21483	
+21484	Barrages	true	true	21484	
+21485	Pistes d'aérodromes	true	true	21485	
+215	Installations techniques, matériels et outillages industriels	false	false	2154	
+2151	Installations complexes spécialisées	false	false	21511	
+21511	Sur sol propre	true	true	21511	
+21514	sur sol d'autrui	true	true	21514	
+2153	Installations à caractère spécifique	false	false	21531	
+21531	Sur sol propre	true	true	21531	
+21534	Sur sol d'autrui	true	true	21534	
+2154	Matériel industriel	true	true	2154	
+2155	Outillage industriel	true	true	2155	
+2157	Agencements et aménagements du matériel et outillage industriels	true	true	2157	
+217	Immobilisations corporelles (Plan Pro)	true	true	undefined	
+218	Autres immobilisations corporelles	false	false	21888	
+2181	Installations générales, agencements, aménagements divers	true	true	2181	
+2182	Matériel de transport	true	true	2182	
+2183	Matériel de bureau et matériel informatique	true	true	2183	
+2184	Mobilier	true	true	2184	
+2185	Cheptel	true	true	2185	
+2186	Emballages récupérables	true	true	2186	
+21888	Autres immobilisations corporelles (import Inqom)	true	true	21888	
+22	Immobilisations mises en concession	true	true	22	
+23	immobilisations en cours	false	false	23888	
+231	Immobilisations corporelles en cours	false	false	2318	
+2312	Terrains	true	true	2312	
+2313	Constructions	true	true	2313	
+2315	Installations techniques, matériel et outillage industriels	true	true	2315	
+2318	Autres immobilisations corporelles	true	true	2318	
+232	Immobilisations incorporelles en cours	true	true	232	
+237	Avances et acomptes versés sur immobilisations incorporelles	true	true	237	
+238	Avances et acomptes versés sur commandes d'immobilisations corporelles	false	false	2388	
+2382	Terrains	true	true	2382	
+2383	Constructions	true	true	2383	
+2385	Installations techniques, matériel et outillages industriels	true	true	2385	
+2388	Autres immobilisations corporelles	true	true	2388	
+23888	Immobilisations en cours (import Inqom)	true	true	23888	
+25	Parts dans des entreprises liées et créances sur des entreprises liées	true	true	25	
+26	Participations et créances rattachées à des participations	false	false	2618	
+261	Titres de participation	false	false	2618	
+2611	Actions	true	true	2611	
+2618	Autres titres	true	true	2618	
+262	Participations évaluées par mise en équivalence	true	true	262	
+266	Autres formes de participation	false	true	undefined	
+2661	Droits représentatifs d'actifs nets remis en fiducie	true	true	2661	
+267	Créances rattachées à des participations	false	false	2671	
+2671	Créances rattachées à des participations (groupe)	true	true	2671	
+2674	Créances rattachées à des participations (hors groupe)	true	true	2674	
+2675	Versements représentatifs d'apports non capitalisés (appel de fonds)	true	true	2675	
+2676	Avances consolidables	true	true	2676	
+2677	Autres créances rattachées à des participations	true	true	2677	
+2678	intérêts courus	true	true	2678	
+268	Créances rattachées à des sociétés en participation	false	false	undefined	
+2681	Principal	true	true	2681	
+2688	Intérêts courus	true	true	2688	
+269	Versements restant à effectuer sur titres de participations non libérés	true	true	269	
+27	Autres immobilisations financières	false	false	2718	
+271	Titres immobilisés autres que les titres immobilisés de l'activité de porte-feuille	false	false	2718	
+2711	Actions	true	true	2711	
+2718	Autres titres	true	true	2718	
+272	Titres immobilités (droit de créance)	false	false	2721	
+2721	Obligations	true	true	2721	
+2722	Bons	true	true	2722	
+273	Titres immobilisés de l'activité de portefeuille	true	true	273	
+274	Prêts	false	false	2748	
+2741	Prêts participatifs	true	true	2741	
+2742	Prêts aux associés	true	true	2742	
+2743	Prêts au personnel	true	true	2743	
+2746	Créances sur titres prêtés ou remis en garantie	true	true	2746	
+2748	Autres prêts	true	true	2748	
+275	Dépôts et cautionnements versés	false	true	2755	
+2751	Dépôts	true	true	2751	
+2755	Cautionnements	true	true	2755	
+276	Autres créances immobilisées	false	false	2761	
+2761	Créances diverses	true	true	2761	
+2768	Intérêts courus	false	false	undefined	
+27682	Sur titres immobilisés (droit de créance)	true	true	27682	
+27684	Sur prêts	true	true	27684	
+27685	Sur dépôts et cautionnements	true	true	27685	
+27688	Sur créances diverses	true	true	27688	
+277	Actions propres ou parts propres	false	false	2771	
+2771	Actions propres ou parts propres	true	true	2771	
+2772	Actions propres ou parts propres en voie d'annulation	true	true	2772	
+278	Mali de fusion sur actifs financiers	true	true	278	
+279	Versements restant à effectuer sur titres immobilisés non libérés	true	true	279	
+28	Amortissements des immobilisations	false	false	28188	
+280	Amortissements des immobilisations incorporelles	false	false	undefined	
+2801	Frais d'établissement	false	false	28011	
+28011	Frais de constitution	true	true	28011	
+28012	Frais de premier établissement	false	false	280121	
+280121	Frais de prospection	true	true	280121	
+280122	Frais de publicité	true	true	280122	
+28013	Frais d’augmentation de capital et d’opérations diverses	true	true	28013	
+2803	Frais de recherche et développement	true	true	2803	
+2804	Amortissements d’investissements de création artistique	true	true	undefined	
+2805	Concessions et droits similaires, brevets, licenses, logiciels, droits et valeurs similaires	true	true	2805	
+2807	Fonds commercial	true	true	2807	
+2808	Autres immobilisations incorporelles	true	true	2808	
+28081	Mali de fusion sur actifs incorporels	true	true	28081	
+281	Amortissements des immobilisations corporelles	false	false	undefined	
+2811	Terrains de gisement	true	true	2811	
+2812	Agencements, aménagements de terrains	false	false	28122	
+28121	Terrains nus	true	true	28121	
+28122	Terrains aménagés	true	true	28122	
+28123	Sous-sols et sur-sols	true	true	28123	
+28124	Terrains de gisement	false	false	undefined	
+281241	Carrières	true	true	281241	
+28125	Terrains bâtis	false	false	undefined	
+281251	Ensembles immobiliers industriels	true	true	281251	
+281255	Ensembles immobiliers administratifs et commerciaux	true	true	281255	
+281258	Autres ensembles immobiliers	false	false	undefined	
+2812581	Affectés aux opérations professionnelles	true	true	2812581	
+2812588	Affectés aux opérations non professionnelles	true	true	2812588	
+28126	Compte d'ordre sur immobilisations	true	true	28126	
+2813	Constructions	false	false	281311	
+28131	Bâtiments	false	false	281311	
+281311	Ensembles immobiliers industriels	true	true	281311	
+281315	Ensembles immobiliers administratifs et commerciaux	true	true	281315	
+281318	Autres ensembles immobiliers	false	false	2813181	
+2813181	Affectés aux opérations professionnelles	true	true	2813181	
+2813188	Affectés aux opérations non professionnelles	true	true	2813188	
+28135	Installations générales - agencements - aménagements des constructions	false	false	281351	
+281351	Ensembles immobiliers industriels	true	true	281351	
+281355	Ensembles immobiliers administratifs et commerciaux	true	true	281355	
+281358	Autres ensembles immobiliers	false	false	undefined	
+2813581	Affectés aux opérations professionnelles	true	true	2813581	
+2813588	Affectés aux opérations non professionnelles	true	true	2813588	
+28138	Ouvrages d'infrastructure	false	false	281381	
+281381	Voies de terre	true	true	281381	
+281382	Voies de fer	true	true	281382	
+281383	Voies d'eau	true	true	281383	
+281384	Barrages	true	true	281384	
+281385	Pistes d'aérodromes	true	true	281385	
+2814	Constructions sur sol d'autrui	false	false	undefined	
+28141	Bâtiments	false	false	undefined	
+281411	Ensembles immobiliers industriels	true	true	281411	
+281415	Ensembles immobiliers administratifs et commerciaux	true	true	281415	
+281418	Autres ensembles immobiliers	false	false	undefined	
+2814181	Affectés aux opérations professionnelles	true	true	2814181	
+2814188	Affectés aux opérations non professionnelles	true	true	2814188	
+28145	Installations générales - agencements - aménagements des constructions	false	false	281455	
+281451	Ensembles immobiliers industriels	true	true	281451	
+281455	Ensembles immobiliers administratifs et commerciaux	true	true	281455	
+281458	Autres ensembles immobiliers	false	false	undefined	
+2814581	Affectés aux opérations professionnelles	true	true	2814581	
+2814588	Affectés aux opérations non professionnelles	true	true	2814588	
+28148	Ouvrages d'infrastructure	false	false	undefined	
+281481	Voies de terre	true	true	281481	
+281482	Voies de fer	true	true	281482	
+281483	Voies d'eau	true	true	281483	
+281484	Barrages	true	true	281484	
+281485	Pistes d'aérodromes	true	true	281485	
+2815	Installations techniques, matériel et outillage industriels	false	false	28154	
+28151	Installations complexes spécialisées	false	false	281511	
+281511	Sur sol propre	true	true	281511	
+281514	sur sol d'autrui	true	true	281514	
+28153	Installations à caractère spécifique	false	false	281531	
+281531	Sur sol propre	true	true	281531	
+281534	Sur sol d'autrui	true	true	281534	
+28154	Matériel industriel	true	true	28154	
+28155	Outillage industriel	true	true	28155	
+28157	Agencements et aménagements du matériel et outillage industriels	true	true	28157	
+2817	Amortissements du matériel spécifique d’exploitation	true	true	undefined	
+2818	Autres immobilisations corporelles	false	false	28188	
+28181	Installations générales, agencements, aménagements divers	true	true	28181	
+28182	Matériel de transport	true	true	28182	
+28183	Matériel de bureau et matériel informatique	true	true	28183	
+28184	Mobilier	true	true	28184	
+28185	Cheptel	true	true	28185	
+28186	Emballages récupérables	true	true	28186	
+28187	Mali de fusion sur actifs corporels	true	true	28187	
+28188	Autres immobilisations corporelles (import Inqom)	true	true	28188	
+282	Amortissement des immobilisations mises en concession	true	true	282	
+29	Déprécations des immobilisations	false	false	2988	
+290	Dépréciations des immobilisations incorporelles	false	false	undefined	
+2904	Provisions pour dépréciation des investissements de création	true	true	undefined	
+2905	Marques, procédés, droits et valeurs similaires	true	true	2905	
+2906	Droit au bail	true	true	2906	
+2907	Fonds commercial	true	true	2907	
+2908	Autres immobilisations incorporelles	true	true	2908	
+29081	Mali de fusion sur actifs incorporels	true	true	29081	
+291	Dépréciations des immobilisations corporelles	false	false	undefined	
+2911	Terrains	false	false	undefined	
+29111	Terrains nus	true	true	29111	
+29112	Terrains aménagés	true	true	29112	
+29113	Sous-sols et sur-sols	true	true	29113	
+29114	Terrains de gisement	false	false	undefined	
+291141	Carrières	true	true	291141	
+29115	Terrains bâtis	false	false	undefined	
+291151	Ensembles immobiliers industriels	true	true	291151	
+291155	Ensembles immobiliers administratifs et commerciaux	true	true	291155	
+291158	Autres ensembles immobiliers	false	false	undefined	
+2911581	Affectés aux opérations professionnelles	true	true	2911581	
+2911588	Affectés aux opérations non professionnelles	true	true	2911588	
+29116	Compte d'ordre sur immobilisations	true	true	29116	
+2912	Agencements et aménagements de terrains	false	false	undefined	
+29121	Terrains nus	true	true	29121	
+29122	Terrains aménagés	true	true	29122	
+29123	Sous-sols et sur-sols	true	true	29123	
+29124	Terrains de gisement	false	false	undefined	
+291241	Carrières	true	true	291241	
+29125	Terrains bâtis	false	false	undefined	
+291251	Ensembles immobiliers industriels	true	true	291251	
+291255	Ensembles immobiliers administratifs et commerciaux	true	true	291255	
+291258	Autres ensembles immobiliers	false	false	undefined	
+2912581	Affectés aux opérations professionnelles	true	true	2912581	
+2912588	Affectés aux opérations non professionnelles	true	true	2912588	
+29126	Compte d'ordre sur immobilisations	true	true	29126	
+2913	Constructions	false	false	undefined	
+29131	Bâtiments	false	false	undefined	
+291311	Ensembles immobiliers industriels	true	true	291311	
+291315	Ensembles immobiliers administratifs et commerciaux	true	true	291315	
+291318	Autres ensembles immobiliers	false	false	undefined	
+2913181	Affectés aux opérations professionnelles	true	true	2913181	
+2913188	Affectés aux opérations non professionnelles	true	true	2913188	
+29135	Installations générales - agencements - aménagements des constructions	false	false	undefined	
+291351	Ensembles immobiliers industriels	true	true	291351	
+291355	Ensembles immobiliers administratifs et commerciaux	true	true	291355	
+291358	Autres ensembles immobiliers	false	false	undefined	
+2913581	Affectés aux opérations professionnelles	true	true	2913581	
+2913588	Affectés aux opérations non professionnelles	true	true	2913588	
+29138	Ouvrages d'infrastructure	false	false	undefined	
+291381	Voies de terre	true	true	291381	
+291382	Voies de fer	true	true	291382	
+291383	Voies d'eau	true	true	291383	
+291384	Barrages	true	true	291384	
+291385	Pistes d'aérodromes	true	true	291385	
+2914	Constructions sur le sol d'autrui	false	false	undefined	
+29141	Bâtiments	false	false	undefined	
+291411	Ensembles immobiliers industriels	true	true	291411	
+291415	Ensembles immobiliers administratifs et commerciaux	true	true	291415	
+291418	Autres ensembles immobiliers	false	false	undefined	
+2914181	Affectés aux opérations professionnelles	true	true	2914181	
+2914188	Affectés aux opérations non professionnelles	true	true	2914188	
+29145	Installations générales - agencements - aménagements des constructions	false	false	undefined	
+291451	Ensembles immobiliers industriels	true	true	291451	
+291455	Ensembles immobiliers administratifs et commerciaux	true	true	291455	
+291458	Autres ensembles immobiliers	false	false	undefined	
+2914581	Affectés aux opérations professionnelles	true	true	2914581	
+2914588	Affectés aux opérations non professionnelles	true	true	2914588	
+29148	Ouvrages d'infrastructure	false	false	undefined	
+291481	Voies de terre	true	true	291481	
+291482	Voies de fer	true	true	291482	
+291483	Voies d'eau	true	true	291483	
+291484	Barrages	true	true	291484	
+291485	Pistes d'aérodromes	true	true	291485	
+2915	Installations techniques, matériels et outillages industriels	false	false	undefined	
+29151	Installations complexes spécialisées	false	false	undefined	
+291511	Sur sol propre	true	true	291511	
+291514	sur sol d'autrui	true	true	291514	
+29153	Installations à caractère spécifique	false	false	undefined	
+291531	Sur sol propre	true	true	291531	
+291534	Sur sol d'autrui	true	true	291534	
+29154	Matériel industriel	true	true	29154	
+29155	Outillage industriel	true	true	29155	
+29157	Agencements et aménagements du matériel et outillage industriels	true	true	29157	
+2918	Autres immobilisations corporelles	false	false	undefined	
+29181	Installations générales, agencements, aménagements divers	true	true	29181	
+29182	Matériel de transport	true	true	29182	
+29183	Matériel de bureau et matériel informatique	true	true	29183	
+29184	Mobilier	true	true	29184	
+29185	Cheptel	true	true	29185	
+29186	Emballages récupérables	true	true	29186	
+29187	Mali de fusion sur actifs corporels	true	true	29187	
+292	Dépréciations des immobilisations mises en concession	true	true	292	
+293	Dépréciations des immobilisations en cours	false	false	undefined	
+2931	Immobilisations corporelles en cours	true	true	2931	
+2932	Immobilisations incorporelles en cours	true	true	2932	
+296	Dépréciations des participations et créances rattachées à des participations	false	false	undefined	
+2961	Titres de participation	true	true	2961	
+2962	Provisions pour dépréciations sur titres mis en équivalence	true	true	2962	
+2966	Autres formes de participation	true	true	2966	
+2967	Créances rattachées à des participations	false	false	29674	
+29671	Créances rattachées à des participations (groupe)	true	true	29671	
+29674	Créances rattachées à des participations (hors groupe)	true	true	29674	
+29675	Versements représentatifs d'apports non capitalisés (appel de fonds)	true	true	29675	
+29676	Avances consolidables	true	true	29676	
+29677	Autres créances rattachées à des participations	true	true	29677	
+29678	intérêts courus	true	true	29678	
+2968	Créances rattachées à des sociétés en participation	false	false	undefined	
+29681	Principal	true	true	29681	
+29688	Intérêts courus	true	true	29688	
+297	Dépréciations des autre simmobilisations financières	false	false	undefined	
+2971	Titres immobilités autres que les titres immobilisés de l'activité de portefeuille - droit de propriété	false	false	undefined	
+29711	Actions	true	true	29711	
+29718	Autres titres	true	true	29718	
+2972	Titres immobilisés - droit de créance	false	false	undefined	
+29721	Obligations	true	true	29721	
+29722	Bons	true	true	29722	
+2973	Titres immobilisés de l'activité de portefeuille	true	true	2973	
+2974	Prêts	false	false	undefined	
+29741	Prêts participatifs	true	true	29741	
+29742	Prêts aux associés	true	true	29742	
+29743	Prêts au personnel	true	true	29743	
+29748	Autres prêts	true	true	29748	
+2975	Dépôts et cautionnements versés	false	false	29755	
+29751	Dépôts	true	true	29751	
+29755	Cautionnements	true	true	29755	
+2976	Autres créances immobilisées	false	false	undefined	
+29761	Créances diverses	true	true	29761	
+29768	Intérêts courus	false	false	undefined	
+297682	Sur titres immobilisés (droit de créance)	true	true	297682	
+297684	Sur prêts	true	true	297684	
+297685	Sur dépôts et cautionnements	true	true	297685	
+297688	Sur créances diverses	true	true	297688	
+2988	Dépréciation des immobilisations (import Inqom)	true	true	2988	
+3	Comptes de stocks et en-cours	false	false	undefined	
+31	Matières premières (et fournitures)	false	false	311	
+311	Matières	true	true	311	
+317	Fournitures	true	true	317	
+32	Autres approvisionnements	false	false	321	
+321	Matières consommables	true	true	321	
+322	Fournitures consommables	false	true	undefined	
+3221	Combustibles	true	true	3221	
+3222	Produits d'entretien	true	true	3222	
+3223	Fournitures d'atelier et d'usine	true	true	3223	
+3224	Fournitures de magasin	true	true	3224	
+3225	Fournitures de bureau	true	true	3225	
+326	Emballages	false	false	3261	
+3261	Emballages perdus	true	true	3261	
+3265	Emballages récupèérables non identifiables	true	true	3265	
+3267	Emballages à usage mixte	true	true	3267	
+33	En-cours de production de biens	false	false	335	
+331	Produits en cours	true	true	331	
+335	Travaux en cours	true	true	335	
+34	En-cours de production de services	false	false	345	
+341	Etudes en cours	true	true	341	
+345	Prestations de services en cours	true	true	345	
+35	Stocks de produits	false	false	355	
+351	Produits intermédiaires	true	true	351	
+355	Produits finis	true	true	355	
+358	Produits résiduels (ou matières de récupération)	false	false	undefined	
+3581	Déchets	true	true	3581	
+3585	Rebuts	true	true	3585	
+3586	Matières de récupération	true	true	3586	
+36	Stock provenant d'immobilisations	true	true	36	
+37	Stock de marchandise	true	true	37	
+38	Stock en voie d'acheminement, mise en dépôt ou données en consignation	true	true	38	
+39	Dépéciation des stocks et en-cours	false	false	398	
+391	Dépréciation des matières premières (et fournitures)	false	false	3911	
+3911	Matière	true	true	3911	
+3917	Fournitures	true	true	3917	
+392	Dépéciations des autres approvisionnements	false	false	undefined	
+3921	Matières consommables	true	true	3921	
+3922	Fourniture consommables	false	true	39222	
+39221	Combustibles	true	true	39221	
+39222	Produits d'entretien	true	true	39222	
+39223	Fournitures d'atelier et d'usine	true	true	39223	
+39224	Fournitures de magasin	true	true	39224	
+39225	Fournitures de bureau	true	true	39225	
+3926	Emballages	true	true	3926	
+39261	Emballages perdus	true	true	39261	
+39265	Emballages récupérables non identifiables	true	true	39265	
+39267	Emballages à usage mixte	true	true	39267	
+393	Dépréciations des en-cours de production de biens	false	false	3931	
+3931	Produits en cours	true	true	3931	
+3935	Travaux en cours	true	true	3935	
+394	Dépréciations des en-cours de production de services	false	false	undefined	
+3941	Etudes en cours	true	true	3941	
+3945	Prestation de services en cours	true	true	3945	
+395	Dépréciation des stocks de produits	false	false	3955	
+3951	Produits intermédiaires	true	true	3951	
+3955	Produits finis	true	true	3955	
+397	Dépréciations des stocks de marchandises	true	true	397	
+398	Dépréciation des stoks (import Inqom)	true	true	398	
+4	Comptes de tiers	false	false	undefined	
+40	Fournisseurs et comptes rattachés	false	false	4011	
+400	Fournisseurs et comptes rattachés	false	false	4011	
+401	Fournisseurs	false	false	4011	
+4011	Fournisseurs - Achats de biens et prestations de services	false	true	4011	
+4017	Fournisseurs - Retenues de garantie	true	true	4017	
+403	Fournisseurs - Effets à payer	true	true	403	
+404	Fournisseurs d'immobilisations	false	false	4041	
+4041	Fournisseurs - Achats d'immobilisations	false	true	4041	
+4047	Fournisseurs d'immobilisations - Retenues de garantie	true	true	4047	
+405	Fournisseurs d'immobilisations - Effets à payer	true	true	405	
+408	Fournisseurs - Factures non parvenues	false	false	4081	
+4081	Fournisseurs	true	true	4081	
+4084	Fournisseurs d'immobilisations	true	true	4084	
+4088	Fournisseurs - Intérêts courus	true	true	4088	
+409	Fournisseurs débiteurs	false	false	4091	
+4091	Fournisseurs - Avances et acomptes versés sur commandes	true	true	4091	
+4096	Fournisseurs - Créances pour emballages et matériel à vendre	true	true	4096	
+4097	Fournisseurs d'immobilisations	false	false	40971	
+40971	Fournisseurs d'exploitation	true	true	40971	
+4098	Rabais, remises, ristournes à obtenir et autres avoirs non encore reçus	true	true	4098	
+41	Clients et comptes rattachés	false	false	4111	
+410	Clients et comptes rattachés	false	false	4111	
+411	Clients	false	false	4111	
+4111	Clients - Ventes de biens ou de prestations de services	false	true	4111	
+4117	Clients - Retenues de garantie	false	true	4117	
+413	Clients - Effets à recevoir	true	true	413	
+416	Clients douteux ou litigieux	true	true	416	
+418	Clients - Produits non encore facturés	false	false	4181	
+4181	Clients - Factures à établir	true	true	4181	
+4188	Clients - Intérêts courus	true	true	4188	
+419	Clients créditeurs	false	false	4191	
+4191	Clients - Avances et acomptes reçus sur commandes	true	true	4191	
+4196	Clients - Dettes sur emballages et matériel consignés	true	true	4196	
+4197	Clients - Autres avoirs	true	true	4197	
+4198	Rabais, remises, ristournes à accorder et autres avoirs à établir	true	true	4198	
+42	Personnel et comptes rattachés	false	false	4219	
+421	Personnel - Rémunérations dues	true	true	421	
+4219	Personnel (import Inqom)	true	true	4219	
+422	Comités d'entreprises, d'établissements	true	true	422	
+424	Participations des salariés aux résultats	false	false	4248	
+4246	Réserve spéciale	true	true	4246	
+4248	Comptes courants	true	true	4248	
+425	Personnel - Avances et acomptes	true	true	425	
+426	Personnel - Dépôts	true	true	426	
+427	Personnel - Oppositions	true	true	427	
+428	Personnel - Charges à payer et produits à recevoir	false	false	4286	
+4282	Dettes provisionnées pour congés à payer	true	true	4282	
+4284	Dettes provisionnées pour participation des salariés aux résultats	true	true	4284	
+4286	Autres charges à payer	true	true	4286	
+4287	Produits à recevoir	true	true	4287	
+43	Sécurité sociale et autres organismes sociaux	false	false	4379	
+431	Sécurité sociale	true	true	431	
+437	Autres organismes sociaux	true	true	437	
+4379	Organismes sociaux mapping (import Inqom)	true	true	4379	
+438	Organismes sociaux - Charges à payer et produits à recevoir	false	false	4386	
+4382	Charges sociales sur congés à payer	true	true	4382	
+4386	Autres charges à payer	true	true	4386	
+4387	Produits à recevoir	true	true	4387	
+44	État et autres collectivités publiques	false	false	4491	
+441	Etat - Subventions à recevoir	false	false	4411	
+4411	Subventions d'investissement	true	true	4411	
+4417	Subventions d'exploitation	true	true	4417	
+4418	Subventions d'équilibre	true	true	4418	
+4419	Avances sur subventions	true	true	4419	
+442	Etat - Impôts et taxes recouvrables sur des tiers	false	false	4425	
+4421	Prélèvements à la source (Impôt sur le revenu)	true	true	4421	
+4422	Prélèvements forfaitaires non libératoires	true	false	4422	
+4423	Retenues et prélèvements sur les distributions	true	false	4423	
+4424	Obligataires	true	true	4424	
+4425	Associés	true	true	4425	
+443	Opérations particulières avec l'Etat, les collectivités publiques, les organismes internationaux	false	false	447	
+4431	Créances sur l'Etat resultat de la suppression de la règle du décalage d'un moins en matière de TVA	true	true	4431	
+4432	Opérations particulières avec l'État	true	true	4432	
+4438	Intérêts courus sur créances figurant au compte 4431	true	true	4438	
+444	Etat - Impôts sur les bénéfices	true	true	444	
+445	Etat - Taxes sur le chiffre d'affaires	false	false	445888	
+4452	TVA due intracommunautaire	true	true	4452	
+4455	Taxes sur le chiffre d'affaire à décaisser	false	false	44551	
+44551	Tva à décaisser	true	true	44551	
+44558	Taxes assimilées à la TVA	true	true	44558	
+4456	Taxes sur le chiffre d'affaires déductibles	false	false	44566	
+44562	TVA sur immobilisations	true	true	44562	
+44563	TVA transférée par d'autres entreprises	true	true	44563	
+44566	TVA sur autres biens et services	true	true	44566	
+445662	TVA intracommunautaire sur autres biens et services	true	true	445662	
+4456698	TVA déductible sur importations	true	true	4456698	
+4456699	TVA déductible sur opérations intérieures	true	true	4456699	
+44567	Crédit de TVA à reporter	true	true	44567	
+44568	Taxes assimilées à la TVA	true	true	44568	
+4457	Taxes sur le chiffre d'affaires collectées par l'entreprise	false	false	44571	
+44571	TVA collectée	true	true	44571	
+44578	Taxes assimmilées à la TVA	true	true	44578	
+445798	TVA due sur importations	true	true	445798	
+445799	TVA due sur opérations intérieures	true	true	445799	
+4458	Taxes sur le chiffre d'affaires à régulariser ou en attente	false	true	445888	
+44581	Acomptes - Régime simplifié d'imposition	true	true	44581	
+44582	Acomptes - Régime du forfait	true	true	44582	
+44583	Remboursement de taxes sur le chiffre d'affaires demandé	true	true	44583	
+44584	TVA récupérée d'avance	true	true	44584	
+44586	Taxes sur le chiffre d'affaires sur les factures non parvenues	true	true	44586	
+44587	Taxes sur le chiffre d'affaires sur factures à établir	true	true	44587	
+445888	Taxes sur le chiffre d'affaires (import Inqom)	true	true	445888	
+446	Obligations cautionnées	true	true	446	
+447	Autres impôts, taxes et versements assimilés	true	true	447	
+448	État - Charges à payer et produits à recevoir	false	false	4486	
+4482	Charges fiscales sur congés à payer	true	true	4482	
+4486	Charges à payer	true	true	4486	
+4487	Produits à recevoir	true	true	4487	
+449	Quotas d'émission à acquérir	true	true	449	
+4491	Etat et autres collectivités publiques (import Inqom)	true	true	4491	
+45	Groupe et associés	false	false	4551	
+451	Groupe	true	true	451	
+455	Associés - Comptes courants	false	false	4551	
+4551	Principal	false	true	4551	
+4558	Intérêts courus	true	true	4558	
+456	Associés - Opérations sur le capital	false	false	45615	
+4561	Associés - Comptes d'apport en société	false	false	45615	
+45611	Apports en nature	true	true	45611	
+45615	Apports en numéraire	true	true	45615	
+4562	Apporteurs - Capital appelé, non versé	false	false	45621	
+45621	Actionnaires - Capital souscrit et appelé, non versé	true	true	45621	
+45625	Associés - Capital appelé, non versé	true	true	45625	
+4563	Associés - Versements reçus sur augmentation sur capital	true	true	4563	
+4564	Associés - Versements anticipés	true	true	4564	
+4566	Actionnaires défaillants	true	true	4566	
+4567	Associés - Capital à rembourser	true	true	4567	
+457	Associés - Dividendes à payer	true	true	457	
+458	Associés - Opérations faites en commun et en G.I.E.	false	false	4581	
+4581	Opérations courantes	true	true	4581	
+4588	Intérêts courus	true	true	4588	
+46	Débiteurs divers et créditeurs divers	false	true	467	
+462	Créances sur cessations d'immobilisations	true	true	462	
+464	Dettes sur acquisitions de valeurs mobilières de placement	true	true	464	
+465	Créances sur cessations de valeurs mobilières de placement	true	true	465	
+467	Autres comptes débiteurs ou créditeurs	false	true	467	
+468	Divers - Charges à payer et produits à recevoir	false	false	467	
+4686	Charges à payer	true	true	4686	
+4687	Produits à recevoir	true	true	4687	
+47	Comptes transitoires ou d'attente	false	true	471	
+471	Compte d'attente	true	true	471	
+472	Compte d'attente	true	true	472	
+473	Inqom IA - Banque - Décaissements à tiers inconnu	false	true	473	
+474	Inqom IA - Banque - Encaissements à tiers inconnu	false	true	472	
+475	Inqom IA - Pièces comptables à affectation inconnue	false	true	472	
+476	Différences de conversion - Actif	false	false	4761	
+4761	Diminution des créances	true	true	4761	
+4762	Augmentation des dettes	true	true	4762	
+4768	Différences compensées par couverture de change	true	true	4768	
+477	Différences de conversion - Passif	false	false	4771	
+4771	Augmentation des créances	true	true	4771	
+4772	Diminution des dettes	true	true	4772	
+4778	Différences compensées par couverture de change	true	true	4778	
+478	Autres comptes transitoires	true	true	478	
+4781	Mali de fusion sur actif circulant	true	true	4781	
+4786	Différences d'évaluation sur instruments de trésorerie - Actif	true	true	4786	
+4787	Différences d'évaluation sur instruments de trésorerie - Passif	true	true	4787	
+48	Comptes de régularisation	false	false	undefined	
+481	Charges à répartir sur plusieurs exercices	false	false	4816	
+4816	Frais d'émission des emprunts	true	true	4816	
+486	Charges constatées d'avance	true	true	486	
+487	Produits constatés d'avance	true	true	487	
+488	Comptes de répartition périodique des charges et des produits	false	false	undefined	
+4886	Charges	true	true	4886	
+4887	Produits	true	true	4887	
+49	Dépréciation des comptes de tiers	false	false	undefined	
+491	Dépréciations des comptes de clients	true	true	491	
+495	Dépréciations des comptes du groupe et des associés	false	false	undefined	
+4951	Comptes du groupe	true	true	4951	
+4955	Comptes courants des associés	true	true	4955	
+4958	Opérations faites en commun et en G.I.E.	true	true	4958	
+496	Dépréciations des comptes de débiteurs divers	false	false	4967	
+4962	Créances sur cessions d'immobilisations	true	true	4962	
+4965	Créances sur cessions de valeurs mobilières de placement	true	true	4965	
+4967	Autres comptes débiteurs	true	true	4967	
+5	Comptes financiers	false	false	undefined	
+50	Valeurs mobilières de placement	false	false	undefined	
+501	Parts dans des entreprises liées	true	true	501	
+502	Actions propres	false	false	undefined	
+5021	Actions destinées à être attribuées aux employés et affectées à des plans déterminés	true	true	5021	
+5022	Actions disponibles pour être attribuées aux employés ou pour la régularisation des cours de bourse	true	true	5022	
+503	Actions	false	false	5031	
+5031	Titres côtés	true	true	5031	
+5035	Titres non cotés	true	true	5035	
+504	Autres titres conférant un droit de propriété	true	true	504	
+505	Obligations et bons émis par la société et rachetés par elle	true	true	505	
+506	Obligations	false	false	5061	
+5061	Titres cotés	true	true	5061	
+5065	Titres non cotés	true	true	5065	
+507	Bons du Trésor et bons de caisse à court terme	true	true	507	
+508	Autres valeurs mobilières de placement et autres créances assimilées	false	false	5081	
+5081	Autres valeurs mobilières	true	true	5081	
+5082	Bons de souscription	true	true	5082	
+5087	Compte à terme	true	true	5087	
+5088	Intérêts courus sur obligations, bons et valeurs assimilées	true	true	5088	
+509	Versements restant à effectuer sur valeurs mobilières de placement non libérées	true	true	509	
+51	Banques, établissements financiers et assimilés	false	false	undefined	
+511	Valeurs à l'encaissement	false	false	5111	
+5111	Coupons échus à l'encaissement	true	true	5111	
+5112	Chèques à encaisser	true	true	5112	
+5113	Effets à l'encaissement	true	true	5113	
+5114	Effets à l'escompte	true	true	5114	
+5115	CB à l'encaissement	true	true	5115	
+5116	Espèces à l'encaissement	true	true	5116	
+5118	Autres encaissements	true	true	5118	
+512	Banques	false	false	5121	
+5121	Comptes en monnaie nationale	false	true	5121	
+5124	Comptes en devises	false	true	5124	
+514	Chèques postaux	true	true	514	
+515	Caisses du Trésor et des établissements publics	true	true	515	
+516	Sociétés de bourse	true	true	516	
+517	Autres organismes financiers	true	true	517	
+518	Intérêts courus	false	false	5181	
+5181	Intérêts courus à payer	true	true	5181	
+5188	Intérêts courus à recevoir	true	true	5188	
+519	Concours bancaires courants	false	false	5191	
+5191	Crédit de mobilisation de créances commerciales	true	true	5191	
+5193	Mobilisation de créances nées à l'étranger	true	true	5193	
+5194	Crédits garanties par créances prof	true	true	5194	
+5197	Autres concours bancaires	true	true	5197	
+5198	Intérêts courus sur concours bancaires courants	true	true	5198	
+52	Intruments de trésorerie	true	true	52	
+53	Caisse	false	false	5311	
+531	Caisse siège social	false	false	5311	
+5311	Caisse en monnaie nationale	true	true	5311	
+5314	Caisse en devises	true	true	5314	
+532	Caisse succursale	true	true	532	
+533	Caisse succursale	true	true	533	
+54	Régies d'avances et accréditis	true	true	54	
+58	Virements internes	true	true	58	
+59	Dépréciations des comptes financiers	false	false	5903	
+590	Dépréciations des valeurs mobilières de placement	false	false	5908	
+5903	Actions	true	true	5903	
+5904	Autres titres conférant un droit de propriété	true	true	5904	
+5906	Obligations	true	true	5906	
+5908	Autres valeurs mobilières de placement et créances assimilées	true	true	5908	
+6	Comptes de charges	false	false	undefined	
+60	Achats	false	false	undefined	
+601	Achats stockés - Matières premières et fournitures	false	true	6011	
+6011	Matières	true	true	6011	
+6017	Fournitures	true	true	6017	
+602	Achats stockés - Autres approvisionnements	false	false	60261	
+6021	Matières consommables	true	true	6021	
+6022	Fournitures consommables	false	false	60222	
+60221	Combustibles	true	true	60221	
+60222	Produits d'entretien	true	true	60222	
+60223	Fournitures d'atelier et d'usine	true	true	60223	
+60224	Fournitures de magasin	true	true	60224	
+60225	Fournitures de bureau	true	true	60225	
+6026	Emballages	false	false	60261	
+60261	Emballages perdus	true	true	60261	
+60265	Emballages récupérables non identifiables	true	true	60265	
+60267	Emballages à usage mixte	true	true	60267	
+6029	Prélèvements de fournitures	true	true	6029	
+603	Variations des stocks	false	false	6038	
+6031	Variation des stocks de matières premières et fournitures	true	true	6031	
+6032	Variation des stocks des autres approvisionnements	true	true	6032	
+6037	Variation des stocks de marchandise	true	true	6037	
+6038	Variation des stocks (import Inqom)	true	true	6038	
+604	Achats d'études et prestations de services	true	true	604	
+605	Achats de matériel, équipements et travaux	true	true	605	
+606	Achats non-stockés de matières et fournitures	false	false	6061	
+6061	Fournitures non stockables	true	true	6061	
+6063	Fournitures d'entretien et de petit équipement	true	true	6063	
+6064	Fournitures administratives	true	true	6064	
+6068	Autres matières et fournitures	true	true	6068	
+607	Achats de marchandises	true	true	607	
+608	Frais accessoires incorporés aux achats	true	true	608	
+609	Rabais, remises et ristournes obtenues sur achats	false	false	6098	
+6091	Rabais, remises et ristournes obtenues sur achats de matières premières et fournitures	true	true	6091	
+6092	Rabais, remises et ristournes obtenues sur achats d'autres approvisionnements stockés	true	true	6092	
+6094	Rabais, remises et ristournes obtenues sur achats d'études et prestations de services	true	true	6094	
+6095	Rabais, remises et ristournes obtenues sur achats de matériel, équipements et travaux	true	true	6095	
+6096	Rabais, remises et ristournes obtenues sur achats de d'approvisionnements non stockés	true	true	6096	
+6097	Rabais, remises et ristournes obtenues sur achats de marchandises	true	true	6097	
+6098	Rabais, remises et ristournes non affectés	true	true	6098	
+61	Services extérieurs	false	false	61888	
+611	Sous-traitance générale	true	true	611	
+612	Redevances de crédit-bail	false	false	6122	
+6122	Crédit-bail mobilier	true	true	6122	
+6125	Crédit-bail immobilier	true	true	6125	
+613	Locations	false	false	6135	
+6132	Locations immobilières	true	true	6132	
+6135	Locations mobilières	true	true	6135	
+6136	Malis sur emballages	true	true	6136	
+614	Charges locatives de copropriété	true	true	614	
+615	Entretien et réparations	false	false	6155	
+6152	Entretien et réparations sur biens immobiliers	true	true	6152	
+6155	Entretien et réparations sur biens mobiliers	true	true	6155	
+6156	Maintenance	true	true	6156	
+616	Primes d'assurance	true	true	616	
+6161	Multirisques	true	true	6161	
+6162	Assurance obligatoire dommage construction	true	true	6162	
+6163	Assurance transport	false	false	61638	
+61636	Assurance transport sur achats	true	true	61636	
+61637	Assurance transport sur ventes	true	true	61637	
+61638	Assurance transport sur autres biens	true	true	61638	
+6164	Risques d'exploitation	true	true	6164	
+6165	Insolvabilité clients	true	true	6165	
+6166	Assurance Coface	true	true	6166	
+617	Etudes et recherches	true	true	617	
+618	Divers	false	false	61888	
+6181	Documentation générale	true	true	6181	
+6183	Documentation technique	true	true	6183	
+6185	Frais de colloques, séminaires, conférences	true	true	6185	
+61888	Services extérieurs (import Inqom)	true	true	61888	
+619	Rabais, remises et ristournes obtenus sur services extérieurs	true	true	619	
+62	Autres services extérieurs	false	false	62888	
+621	Personnels extérieurs à l'entreprise	false	false	6211	
+6211	Personnel intérimaire	true	true	6211	
+6214	Personnel détaché ou prêté à l'entreprise	true	true	6214	
+622	Rémunérations d'intermédiaires et honoraires	false	false	6228	
+6221	Commissions et courtages sur achats	true	true	6221	
+6222	Commissions et courtages sur ventes	true	true	6222	
+6224	Rémunérations des transitaires	true	true	6224	
+6225	Rémunérations d'affacturage	true	true	6225	
+6226	Honoraires	true	true	6226	
+6227	Frais d'actes et de contentieux	true	true	6227	
+6228	Divers	true	true	6228	
+623	Publicités, publications, relations publiques	false	false	6231	
+6231	Annonces et insertions	true	true	6231	
+6232	Echantillons	true	true	6232	
+6233	Foires et expositions	true	true	6233	
+6234	Cadeaux à la clientèle	true	true	6234	
+6235	Primes	true	true	6235	
+6236	Catalogues et imprimés	true	true	6236	
+6237	Publications	true	true	6237	
+6238	Divers	true	true	6238	
+624	Transports de biens et transports collectifs du personnel	false	false	6241	
+6241	Transports sur achats	true	true	6241	
+6242	Transports sur ventes	true	true	6242	
+6243	Transports entre établissements ou chantiers	true	true	6243	
+6244	Transports administratifs	true	true	6244	
+6247	Transports collectifs du personnel	true	true	6247	
+6248	Divers	true	true	6248	
+625	Déplacements, missions et réceptions	false	false	6256	
+6251	Voyages et déplacements	true	true	6251	
+6255	Frais de déménagement	true	true	6255	
+6256	Missions	true	true	6256	
+6257	Réceptions	true	true	6257	
+626	Frais postaux et de télécommunications	true	true	626	
+627	Services bancaires et assimiliés	false	false	6275	
+6271	Frais sur titres	true	true	6271	
+6272	Commissions et frais sur émission d'emprunts	true	true	6272	
+6275	Frais sur effets	true	true	6275	
+6276	Location de coffres	true	true	6276	
+6278	Autres frais et commissions sur prestations de services	true	true	6278	
+628	Divers	false	true	6281	
+6281	Concours Divers	true	true	6281	
+6284	Frais de recrutement de personnel	true	true	6284	
+62888	Autres services extérieurs (import Inqom)	true	true	62888	
+629	Rabais, remises et ristournes obtenus sur autres services extérieurs	true	true	629	
+63	Impôts, taxes et versements assimilés	false	false	6358	
+631	Impôts, taxes et versements assimilés sur rémunérations	false	false	6318	
+6311	Taxe sur les salaires	true	true	6311	
+6312	Taxe d'apprentissage	true	true	6312	
+6313	Participation à des employeurs à la formation professionnelle continue	true	true	6313	
+6314	Cotisation pour défaut d'investissement obligatoire dans la construction	true	true	6314	
+6318	Autres	true	true	6318	
+633	Impôts, taxes et versements assimilés sur rémunérations	false	false	6338	
+6331	Versement de transport	true	true	6331	
+6332	Allocation de logement	true	true	6332	
+6333	Participation des employeurs à la formation professionnelle continue	true	true	6333	
+6334	Participation des employeurs à l'effort de construction	true	true	6334	
+6335	Versements libératoires ouvrant droit à l'exonération de la taxe d'apprentissage	true	true	6335	
+6338	Autres	true	true	6338	
+635	Autres impôts, taxes et versements assimilés	false	false	6358	
+6351	impôts directs	false	false	6358	
+63511	Contribution économique territoriale	true	true	63511	
+63512	Taxes foncières	true	true	63512	
+63513	Autres impôts locaux	true	true	63513	
+63514	Taxe sur les véhicules des sociétés	true	true	63514	
+6352	Taxes sur les chiffres d'affaires non récupérables	true	true	6352	
+6353	Impôts indirects	true	true	6353	
+6354	Droits d'enregistrement et de timbre	true	false	6354	
+63541	Droits de mutation	true	true	63541	
+6358	Autres droits	true	true	6358	
+637	Autres impôts, taxes et versements assimilés (autres organismes)	false	false	6378	
+6371	Contribution sociale de solidarité à la charge des entreprises	true	true	6371	
+6372	Taxes perçues par les organismes publics internationaux	true	true	6372	
+6374	Impôts et taxes exigibles à l'étranger	true	true	6374	
+6378	Taxes diverses	true	true	6378	
+64	Charges de personnel	false	false	undefined	
+641	Rémunérations du personnel	false	false	6415	
+6411	Salaires, appointements	true	true	6411	
+64115	Salaires dirigeants TNS	true	true	64115	
+641151	CSG - CRDS non déductible TNS article 62	true	true	641151	
+641152	CSG déductible TNS article 62	true	true	641152	
+641153	Cotisations obligatoires TNS article 62	true	true	641153	
+641154	Cotisations facultatives santé - prévoyance TNS article 62	true	true	641154	
+641155	Cotisations facultatives retraite TNS article 62	true	true	641155	
+641156	Cotisations facultatives PER retraite TNS article 62	true	true	641156	
+6412	Congés payés	true	true	6412	
+6413	Primes et gratifications	true	true	6413	
+6414	Indemnités et avantages divers	true	true	6414	
+6415	Supplément familial	true	true	6415	
+642	Rémunérations du personnel technique // Cotisation à la caisse des congés payés	true	true	undefined	
+643	Service au pourcentage réparti	true	true	undefined	
+644	Rémunération du travail de l'exploitant	true	true	644	
+645	Charges de sécurité sociale et de prévoyance	false	false	6458	
+6451	Cotisations à l'URSSAF	true	true	6451	
+6452	Cotisations aux mutuelles	true	true	6452	
+6453	Cotisations aux caisses de retraites	true	true	6453	
+6454	Cotisations aux ASSEDIC	true	true	6454	
+6458	Cotisations aux autres organismes sociaux	true	true	6458	
+646	Cotisations sociales personnelles de l'exploitant	true	true	646	
+6464	Cotisations madelin santé - prévoyance EI - IR	true	true	6464	
+6465	Cotisations madelin retraite EI - IR	true	true	6465	
+6466	Cotisations PER EI - IR	true	true	6466	
+647	Autres charges sociales	false	false	6471	
+6471	Prestations directes	true	true	6471	
+6472	Versements aux comités d'entreprise et d'établissement	true	true	6472	
+6473	Versements aux comités d'hygiène et de sécurité	true	true	6473	
+6474	Versements aux autres oeuvres sociales	true	true	6474	
+6475	Médecine du travail, pharmacie	true	true	6475	
+648	Autres charges de personnel	true	true	648	
+649	Crédit d'Impôt Compétitivité Emploi (CICE)	true	true	649	
+65	Autres charges de gestion courante	false	false	658	
+651	Redevances pour concessions, brevets, licences, marques, procédés, logiciels, droits et valeurs similaires	false	true	6511	
+6511	Redevances pour concessions, brevets, licences, marques, procédés, logiciels	true	true	6511	
+6516	Droits d'auteur et de reproduction	true	true	6516	
+6518	Autres droits et valeurs similaires	true	true	6518	
+653	Jetons de présence	true	true	653	
+654	Pertes sur créances irrécouvrables	false	false	6544	
+6541	Créances sur l'exercice	true	true	6541	
+6544	Créances des exercices antérieurs	true	true	6544	
+655	Quotes-parts de résultat sur opérations faites en commun	false	false	6551	
+6551	Quote-part de bénéfice transférée	true	true	6551	
+6555	Quote-part de perte supportée	true	true	6555	
+656	Perte de change sur créances et dettes commerciales	true	true	656	
+658	Charges diverses de gestion courante	true	true	658	
+66	Charges financières	false	false	6688	
+661	Charges d'intérêts	false	false	66116	
+6611	Intérêts des emprunts et dettes	false	false	66116	
+66116	Intérêts des emprunts et dettes assimilées	true	true	66116	
+66117	Intérêts des dettes rattachées à des participations	true	true	66117	
+6612	Charges de la fiducie, résultat de la période	true	true	6612	
+6615	Intérêts des comptes courants et des dépôts créditeurs	true	true	6615	
+6616	Intérêts bancaires et sur opérations de financement	true	true	6616	
+6617	Intérêts des obligations cautionnées	true	true	6617	
+6618	Intérêts des autres dettes	false	false	66181	
+66181	Intérêts des autres dettes commerciales	true	true	66181	
+66188	Intérêts des autres dettes diverses	true	true	66188	
+664	Pertes sur créances liées à des participations	true	true	664	
+665	Escomptes accordés	true	true	665	
+666	Pertes de change	true	true	666	
+667	Charges nettes sur cessions de valeurs mobilières de placement	true	true	667	
+668	Autres charges financières	true	true	668	
+6688	Charges financières (import Inqom)	true	true	6688	
+67	Charges exceptionnelles	false	false	67888	
+671	Charges exceptionnelles sur opérations de gestion	false	false	6718	
+6711	Pénalités sur marchés et dédits payés sur achats et ventes	true	true	6711	
+6712	Pénalités, amendes fiscales et pénales	true	true	6712	
+6713	Dons, libéralités	true	true	6713	
+6714	Créances devenues irrécouvrables dans l'exercice	true	true	6714	
+6715	Subventions accordées	true	true	6715	
+6717	Rappels d'impôts autres que sur les bénéfices	true	true	6717	
+6718	Autres charges exceptionnelles sur opérations de gestion	true	true	6718	
+672	Charges sur exercices antérieurs	true	true	672	
+673	Résultat de liquidation - Charges	true	true	673	
+674	Opérations de constitution ou liquidation des fiducies	false	false	undefined	
+6741	Opérations liées à la constitution de la fiducie	true	true	6741	
+6742	Opérations liées à la liquidation de la fiducie	true	true	6742	
+675	Valeurs comptables des éléments d'actifs cédés	false	false	6752	
+6751	Immobilisations incorporelles	true	true	6751	
+6752	Immobilisations corporelles	true	true	6752	
+6756	Immobilisations financières	true	true	6756	
+6758	Autres éléments d'actif	true	true	6758	
+678	Autres charges exceptionnelles	false	false	6788	
+6781	Malis provenant de clauses d'indexation	true	true	6781	
+6782	Lots	true	true	6782	
+6783	Malis provenant du rachat par l'entreprise d'actions et obligations émises par elle-même	true	true	6783	
+6788	Charges exceptionnelles diverses	true	true	6788	
+67888	Charges exceptionnelles (import Inqom)	true	true	67888	
+68	Dotations aux amortissements, aux dépréciations et aux provisions	false	false	undefined	
+681	Dotations aux amortissements, aux dépréciations et aux provisions - Charges d'exploitation	false	false	68112	
+6811	Dotations aux amortissements sur immobilisations incorporelles et corporelles	false	false	68112	
+68111	Immobilisations incorporelles	true	true	68111	
+68112	Immobilisations corporelles	true	true	68112	
+68118	Dotations aux amortissements - Divers (import Inqom)	true	true	68118	
+6812	Dotations aux amortissements des charges d'exploitation à répartir	true	true	6812	
+6815	Dotations aux provisions d'exploitation	true	true	6815	
+6816	Dotations aux dépréciations des immobilisations incorporelles et corporelles	false	false	68161	
+68161	Dotations aux dépréciations des immobilisations incorporelles	true	true	68161	
+68162	Dotations aux dépréciations des immobilisations corporelles	true	true	68162	
+6817	Dotations aux dépréciations des actifs circulants	false	false	68174	
+68173	Stocks et en-cours	true	true	68173	
+68174	Créances	true	true	68174	
+686	Dotations aux amortissements, aux dépréciations et aux provisions - Charges financières	false	false	undefined	
+6861	Dotations aux amortissements des primes de remboursement des obligations	true	true	6861	
+6865	Dotations aux provisions financières	true	true	6865	
+6866	Dotations aux dépréciations des éléments financiers	false	false	68662	
+68662	Immobilisations financières	true	true	68662	
+68665	Valeurs mobilières de placement	true	true	68665	
+6868	Autres dotations	true	true	6868	
+687	Dotations aux amortissements, aux dépréciations et aux provisions - Charges exceptionnelles	false	false	undefined	
+6871	Dotations aux amortissements exceptionnels des immobilisations	true	true	6871	
+6872	Dotations aux provisions réglementées (Immobilisations)	false	false	68725	
+68725	Amortissements obligatoires	true	true	68725	
+6873	Dotations aux provisions réglementées (stocks)	true	true	6873	
+6874	Dotations aux autres provisions réglementées	true	true	6874	
+6875	Dotations aux provisions exceptionnelles	true	true	6875	
+6876	Dotations aux dépréciations exceptionnelles	true	true	6876	
+689	Engagements à réaliser sur ressources affectées	true	true	undefined	
+69	Participation des salariés - Impôts sur les bénéfices et assimilés	false	false	undefined	
+691	Participation des salariés aux résultats	true	true	691	
+695	Impôts sur les bénéfices	false	false	6951	
+6951	Impôts dus en France	true	true	6951	
+6952	Contribution additionnelle à l'impôt sur les bénéfices	true	true	6952	
+6954	Impôts dus à l'étranger	true	true	6954	
+696	Supplément d'impôt sur les sociétés lié aux distributions	true	true	696	
+698	Intégration fiscale	false	false	undefined	
+6981	Intégration fiscale - Charges	true	true	6981	
+6989	Intégration fiscale - Produits	true	true	6989	
+699	Produits - Reports en arrière des déficits	true	true	699	
+7	Comptes de produits	false	false	undefined	
+70	Ventes de produits fabriqués, prestations de services, marchandises	false	false	undefined	
+701	Ventes de produits finis	true	true	701	
+702	Ventes de produits intermédiaires	true	true	702	
+703	Ventes de produits résiduels	true	true	703	
+704	Travaux	true	true	704	
+705	Études	true	true	705	
+706	Prestations de services	true	true	706	
+707	Ventes de marchandises	true	true	707	
+708	Rabais, remises et ristournes accordés par l'entreprise	false	false	7088	
+7081	Produits des services exploités dans l'intérêt du personnel	true	true	7081	
+7082	Commissions et courtages	true	true	7082	
+7083	Locations diverses	true	true	7083	
+7084	Mise à disposition de personnel facturée	true	true	7084	
+7085	Ports et frais accessoires facturés	true	true	7085	
+7086	Bonis sur reprises d'emballages consignés	true	true	7086	
+7087	Bonifications obtenues des clients et primes sur ventes	true	true	7087	
+7088	Autres produits d'activités annexes	true	true	7088	
+709	Rabais, remises et ristournes accordés par l'entreprise	false	false	70988	
+7091	Rabais, remises et ristournes accordés sur ventes de produits finis	true	true	7091	
+7092	Rabais, remises et ristournes accordés sur ventes de produits intermédiaires	true	true	7092	
+7094	Rabais, remises et ristournes accordés sur travaux	true	true	7094	
+7095	Rabais, remises et ristournes accordés sur études	true	true	7095	
+7096	Rabais, remises et ristournes accordés sur prestations de services	true	true	7096	
+7097	Rabais, remises et ristournes accordés sur ventes de marchandises	true	true	7097	
+7098	Rabais, remises et ristournes accordés sur produits des activités annexes	true	true	7098	
+70988	Rabais, remises et ristournes (import Inqom)	true	true	70988	
+71	Production stockée	false	false	undefined	
+713	Variation des stocks	false	false	7138	
+7133	Variation des en-cours de production de biens	false	false	71331	
+71331	Produits en cours	true	true	71331	
+71335	Travaux en cours	true	true	71335	
+7134	Variation des en-cours de production des services	false	false	71345	
+71341	Études en cours	true	true	71341	
+71345	Prestations de services en cours	true	true	71345	
+7135	Variation des stocks de produits	false	false	71355	
+71351	Produits intermédiaires	true	true	71351	
+71355	Produits finis	true	true	71355	
+71358	Produits résiduels	true	true	71358	
+7138	Variation des stocks (import Inqom)	true	true	7138	
+72	Production immobilisée	false	false	721	
+721	Immobilisations incorporelles	true	true	721	
+722	Immobilisations corporelles	true	true	722	
+74	Subventions d'exploitation	true	true	74	
+75	Autres produits de gestion courantes	false	false	undefined	
+751	Redevances pour concessions, brevets, licences, marques, procédés, logiciels, droits et valeurs similaires	false	false	7511	
+7511	Redevances pour concessions, brevets, licences, marques, procédés, logiciels	true	true	7511	
+7516	Droits d'auteur et de reproduction	true	true	7516	
+7518	Autres droits et valeurs similaires	true	true	7518	
+752	Revenus des immeubles non affectés à des professionnelles	true	true	752	
+753	Jetons de présence et rémunérations d'administrateurs, gérants.	true	true	753	
+754	Ristournes perçues des coopératives	true	true	754	
+755	Quotes-parts de résultat sur opérations faites en commun	false	false	7555	
+7551	Quote-part de perte transférée (comptabilité du gérant)	true	true	7551	
+7555	Quote-part de bénéfice attribuée (comptabilité des associés non gérants)	true	true	7555	
+756	Gains de change sur créances et dettes commerciales	true	true	756	
+757	Subventions « automatiques » virées au résultat de l’exercice	true	true	undefined	
+758	Produits divers de gestion courante	true	true	758	
+76	Produits financiers	false	false	768	
+761	Produits de participations	false	false	7611	
+7611	Revenus de titres de participation	true	true	7611	
+7612	Produits de la fiducie, résultat de la période	true	true	7612	
+7616	Revenus sur autres formes de participation	true	true	7616	
+7617	Revenus des créances rattachées à des participations	true	true	7617	
+762	Produits des autres immobilisations financières	false	false	7621	
+7621	Revenus des titres immobilisés	true	true	7621	
+7626	Revenus des prêts	true	true	7626	
+7627	Revenus des créances immobilisées	true	true	7627	
+763	Revenus des autres créances	false	false	7638	
+7631	Revenus des créances commerciales	true	true	7631	
+7638	Revenus des créances diverses	true	true	7638	
+764	Revenus des valeurs mobilières de placement	true	true	764	
+765	Escomptes obtenus	true	true	765	
+766	Gains de change	true	true	766	
+767	Produits nets sur cessions de valeurs mobilières de placement	true	true	767	
+768	Autres produits financiers	true	true	768	
+77	Produits exceptionnels	false	false	7718	
+771	Produits exceptionnels sur opérations de gestion	false	false	7718	
+7711	Dédits et pénalités perçues sur achats et sur ventes	true	true	7711	
+7713	Libéralités reçues	true	true	7713	
+7714	Rentrées sur créances amorties	true	true	7714	
+7715	Subventions d'équilibre	true	true	7715	
+7717	Dégrèvements d'impôts autres qu'impôts sur les bénéfices	true	true	7717	
+7718	Autres produits exceptionnels sur opérations de gestion	true	true	7718	
+772	Produits sur exercices antérieurs	true	true	772	
+773	Résultat de liquidation - Produits	true	true	773	
+774	Opérations de constitution ou liquidation des fiducies	false	false	undefined	
+7741	Opérations liées à la constitution de la fiducie - transfert des éléments	true	true	7741	
+7742	Opérations liées à la liquidation de la fiducie	true	true	7742	
+775	Produits des cessions d'éléments d'actif	false	false	7758	
+7751	Produits des cessions d'immobilisations incorporelles	true	true	7751	
+7752	Produits des cessions d'immobilisations corporelles	true	true	7752	
+7756	Produits des cessions d'immobilisations financières	true	true	7756	
+7758	Produits des cessions d'autres éléments d'actif	true	true	7758	
+777	Quote-part des subventions d'investissement virée au résultat des l'exercice	true	true	777	
+778	Autres produits exceptionnels	false	false	7788	
+7781	Bonis provenant de clauses d'indexation	true	true	7781	
+7782	Lots	true	true	7782	
+7783	Bonis provenant du rachat par l'entreprise d'actions et d'obligations émises par elle-même	true	true	7783	
+7788	Produits exceptionnels divers	true	true	7788	
+78	Reprises sur amortissements, dépréciations et provisions	false	false	undefined	
+781	Reprises sur amortissements, dépréciations et provisions - produits d'exploitation	false	false	7818	
+7811	Reprises sur amortissements des immobilisations incorporelles et corporelles	false	false	undefined	
+78111	Reprises sur amortissements des immobilisations incorporelles	true	true	78111	
+78112	Reprises sur amortissements des immobilisations corporelles	true	true	78112	
+7815	Reprises sur provisions d'exploitation	true	true	7815	
+7816	Reprises sur dépréciations des immobilisations incorporelles et corporelles	false	false	undefined	
+78161	Reprises sur dépréciations des immobilisations incorporelles	true	true	78161	
+78162	Reprises sur dépréciations des immobilisations corporelles	true	true	78162	
+7817	Reprises sur dépréciations des actifs circulants	false	false	78174	
+78173	Stocks et en-cours	true	true	78173	
+78174	Créances	true	true	78174	
+7818	Reprises sur amortissements et provisions (import Inqom)	true	true	7818	
+786	Reprises sur dépréciations et provisions - produits financiers	false	false	7865	
+7865	Reprises sur provisions financières	true	true	7865	
+7866	Reprises sur dépréciations des éléments financiers	false	false	78662	
+78662	Reprises sur dépréciations des immobilisations financières	true	true	78662	
+78665	Reprises sur dépréciations des valeurs mobilières de placement	true	true	78665	
+787	Reprises sur provisions réglementées - produits exceptionnels	false	false	undefined	
+7872	Reprises sur provisions réglementées - immobilisations	false	false	undefined	
+78725	Amortissements dérogatoires	true	true	78725	
+78726	Provision spéciale de réévaluation	true	true	78726	
+78727	Plus-values réinvesties	true	true	78727	
+7873	Reprises sur provisions réglementées - stocks	true	true	7873	
+7874	Reprises sur autres provisions réglementées	true	true	7874	
+7875	Reprises sur provisions exceptionnelles	true	true	7875	
+7876	Reprises sur dépréciations exceptionnelles	true	true	7876	
+789	Report des ressources non utilisées des exercices antérieurs	true	true	undefined	
+79	Transfert de charges	false	false	791	
+791	Transferts de charges d'exploitation	true	true	791	
+7913	Transfert de charges d'exploitation affectant la valeur ajoutée	true	false	7913	
+7914	Transfert de charges d'exploitation affectant l'excédent brut d’exploitation	true	false	7914	
+796	Transferts de charges financières	true	true	796	
+797	Transferts de charges exceptionnelles	true	true	797	
+8	Comptes spéciaux	false	false	8	
+80	Engagements donnés par l'entité	false	false	undefined	
+801	Engagements donnés par l'entité	false	false	undefined	
+8011	Avals, cautions, garanties	true	true	8011	
+8014	Effets circulant sur l'endos de l'entité	true	true	8014	
+8016	Redevances crédit-bail restant à courir	false	false	undefined	
+80161	Crédit-bail mobilier	true	true	80161	
+80165	Crédit-bail immobilier	true	true	80165	
+8018	Autres engagements donnés	true	true	8018	
+802	Engagements reçus par l'entité	false	false	undefined	
+8021	Avals, cautions, garanties	true	true	8021	
+8024	Créances escomptées non échues	true	true	8024	
+8026	Engagements reçus pour utilisation en crédit-bail	false	false	undefined	
+80261	Crédit-bail mobilier	true	true	80261	
+80265	Crédit-bail immobilier	true	true	80265	
+8028	Autres engagements reçus	true	true	8028	
+809	Contreparties des engagements	false	false	undefined	
+8091	Contrepartie 801	true	true	8091	
+8092	Contrepartie 802	true	true	8092	
+88	Résultat en instance d'affectation	true	true	88	
+89	Bilan	true	true	89	

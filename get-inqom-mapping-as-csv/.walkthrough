@@ -1,0 +1,16 @@
+
+9 mars 2023 : Début
+
+
+
+Fonctionnalités souhaitées (futur) :
+- (OK) Retourner le plan comptable Inqom du jour à jour
+- Retourner la liste des règles qui ont évoluées depuis une certaine date à today (Make/Integromate):
+    - Each day, récup PCG Inqom du jour et sauvegarde
+    - Si PCG today est différent du PCG d'hier : notification de changement
+
+
+29 mars :
+Fini codage "mapping automatique" la semaine dernière
+Fini codage du checker de différences entre PCG Inqom passé et today (à lancer via Integromate)
+Manque à le tester à fond, puis utiliser Integro pour l'exec chaque jour

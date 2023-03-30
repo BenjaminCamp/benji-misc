@@ -1,0 +1,13 @@
+======= DENO ======
+
+Environnement normé et idempotent pour run du JS, axé sur la "sécurité" et la compat cross-browser
+Handling typescript natif, certaines fonctions sont bundlées aussi.
+Ajout d'une
+Imports ES6,fonctionnalités de bundle (ex: export function, import {lol} from '../tamer.js')
+Contient toute la lib standard.
+Handler embarqués pour BDD (même postgres !), y'a même des ORMs
+Support du .env embarqué aussi
+Librairie de test intégrée
+# Permission
+Paramètres commande deno :
+--allow-read offre un accès en lecture au système de fichier pour l'exéc
