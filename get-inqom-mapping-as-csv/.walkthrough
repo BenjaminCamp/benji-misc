@@ -14,3 +14,7 @@ Fonctionnalités souhaitées (futur) :
 Fini codage "mapping automatique" la semaine dernière
 Fini codage du checker de différences entre PCG Inqom passé et today (à lancer via Integromate)
 Manque à le tester à fond, puis utiliser Integro pour l'exec chaque jour
+
+30 mars :
+Fini de dév le checker PCG Inqom, et son trigger Integromate/Make, + tests
+Pour une V2, il manquerait à garder en mémoire ces changements en BDD.
